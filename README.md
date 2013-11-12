@@ -1,1 +1,1 @@
-a maze, in js!
+a maze, in js!!!
